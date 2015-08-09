@@ -14,6 +14,12 @@ using SEGarden.Logging;
 
 namespace GardenWarfare {
 
+    static class Common {
+        public static String LogFileName =
+            "GardenWarfare-" + DateTime.Now.ToString("yyyy-MM-dd-HH:mm:ss") + ".log";
+
+    }
+
 
 
 }
