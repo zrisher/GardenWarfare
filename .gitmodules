@@ -1,0 +1,9 @@
+[submodule "Data/Scripts/SEModHelpers"]
+	path = Data/Scripts/SEModHelpers
+	url = git@github.com:zrisher/SEModHelpers
+[submodule "Data/Scripts/SEGarden"]
+	path = Data/Scripts/SEGarden
+	url = git@github.com:zrisher/SEGarden
+[submodule "Data/Scripts/GardenWarfare/SEGarden"]
+	path = Data/Scripts/GardenWarfare/SEGarden
+	url = git@github.com:zrisher/SEGarden
