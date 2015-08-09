@@ -96,7 +96,7 @@ namespace GardenWarfare.Components {
                     Logger.Info("jelly", "updatePoop");
 
                     testNotice1 = new AlertNotification() {
-                        Text = "Successfully logged"
+                        Text = "Successfully logged - Warfare"
                     };
                     testNotice1.Raise();
 
